@@ -4,9 +4,7 @@
 
 Authors: Mathieu Jee, Olivier Kopp, Florent Piller, Romain Silvestri
 
-Date: 2018
-
-HappyFaces
+Date: November 2018
 
  ## Description
 
@@ -18,13 +16,13 @@ The goal of this school project is to create a social network with different con
 
 
 
-## What is Happy:kissing_smiling_eyes::smiley_cat::ghost: ?
+## What is Happy:kissing_smiling_eyes::smiley_cat::ghost: ? 
 
-Happy😙😺👻 is a revolutionnary social network that allows you to share your funniest stories to the world using your favorite emojis ! :sunglasses:
+Happy😙😺👻 is a revolutionnary social network that allows you to share your funniest stories to the world using your favorite emojis ! :sunglasses::thumbsup:
 
-You don't know how
+You don't know how to speak EmojiLanguage ? :fearful: 
 
-, you should be able to tell the world how you feel whithout knowing the Emoji Language :scream: !
+Don't worry ! We're taking care of translating your stories with an advanced technology called *EmojiTranslator*. Therefore, you'll be able to tell the world how you feel about anything whithout knowing the EmojiLanguage ! :scream:
 
 ## What tech are we using ?
 
@@ -34,7 +32,11 @@ back-end: Express
 
 front-end: React
 
-Librairy EmojiTranslate: https://github.com/notwaldorf/emoji-translate
+Emojilib:
+
+https://github.com/muan/emojilib
+
+https://github.com/notwaldorf/emoji-translate (not sure)
 
 ## Client Repo
 
