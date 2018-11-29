@@ -25,7 +25,7 @@ back-end:
 
 front-end:
 
-
+Librairy EmojiTranslate: https://github.com/notwaldorf/emoji-translate
 
 ## Client Repo
 
