@@ -1,10 +1,12 @@
-# TWEB-Project2-Main
+# TWEB Project 2
 
-Author: Mathieu Jee, Olivier Kopp, Florent Piller, Romain Silvestri
+# Happy😙😺👻  (HappyFaces)
+
+Authors: Mathieu Jee, Olivier Kopp, Florent Piller, Romain Silvestri
 
 Date: 2018
 
-
+HappyFaces
 
  ## Description
 
@@ -13,17 +15,24 @@ The goal of this school project is to create a social network with different con
 - Users can follow/unfollow other users. 
 
 - Each user should have a personnal *wall* with messages/images/videos/... posted by users he followed. 
-- 
 
 
 
-## Tech
+## What is Happy:kissing_smiling_eyes::smiley_cat::ghost: ?
 
-DB: 
+Happy😙😺👻 is a revolutionnary social network that allows you to share your funniest stories to the world using your favorite emojis ! :sunglasses:
 
-back-end:
+You don't know how
 
-front-end:
+, you should be able to tell the world how you feel whithout knowing the Emoji Language :scream: !
+
+## What tech are we using ?
+
+DB: MongoDB 
+
+back-end: Express
+
+front-end: React
 
 Librairy EmojiTranslate: https://github.com/notwaldorf/emoji-translate
 
