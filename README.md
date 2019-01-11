@@ -53,13 +53,9 @@ https://github.com/Emojeeeeeeeeeeeeeeeeeeeeeeeeeee/TWEB-Project2-Server
 ## TODOs
 
 - Background when userGrid or messageGrid is empty
-
 - Background position if navbar (calc(100vh-x)
-
 - Forgot password
-
 - display my messages
-
 - delete my messages
-
-  
+- Following page
+- Followers page
