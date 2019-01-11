@@ -59,3 +59,5 @@ https://github.com/Emojeeeeeeeeeeeeeeeeeeeeeeeeeee/TWEB-Project2-Server
 - delete my messages
 - Following page
 - Followers page
+- Navbar functions available from every pages
+- props verification
