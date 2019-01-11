@@ -55,9 +55,6 @@ https://github.com/Emojeeeeeeeeeeeeeeeeeeeeeeeeeee/TWEB-Project2-Server
 - Background when userGrid or messageGrid is empty
 - Background position if navbar (calc(100vh-x)
 - Forgot password
-- display my messages
 - delete my messages
-- Following page
-- Followers page
 - Navbar functions available from every pages
 - props verification
