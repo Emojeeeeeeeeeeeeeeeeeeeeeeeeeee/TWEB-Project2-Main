@@ -12,7 +12,7 @@ The goal of this school project is to create a social network with different con
 
 - Users can follow/unfollow other users. 
 
-- Each user should have a personnal *wall* with messages/images/videos/... posted by users he followed. 
+- Each user should have a personal *wall* with messages/images/videos/... posted by users he followed. 
 
 
 
@@ -28,7 +28,7 @@ Don't worry ! We're taking care of translating your stories with an advanced tec
 
 DB: MongoDB 
 
-back-end: Express
+back-end: Express with GraphQL
 
 front-end: React
 
@@ -37,6 +37,34 @@ Emojilib:
 https://github.com/muan/emojilib
 
 https://github.com/notwaldorf/emoji-translate (not sure)
+
+## Deployement of the app
+
+We used Heroku to deploy the app. The two following addresses can be accessed : 
+
+front-end : 
+
+back-end : 
+
+## How to use this app ?
+
+Firstly, you have to register an account to be able to connect to the app. Once connected, you are redirected in your Home page, which is the place where you can see all your messages and the messages of the persons you are followings. You can access this page by clicking on 🏠 in the navbar.
+
+You can write a new message by clicking the 💬 button and filling the form. You can delete one of you message at any moment by clicking on the red cross on the message card to delete. If you click on 'My ✉️ ', you will have access to your personal message only. You can also access to all the message that you have liked by clicking on 'My ❤️'. You can access to your profile by clicking on your profile picture in the navbar. In the end, you can log out by clicking on the logout button.
+
+
+
+The profile page allow you to change you profile picture depending on your mood.
+
+You can like messages by clicking on the like button and unlike them by clicking again.
+
+You can also follow/unfollow persons,
+
+You can see the followers and the people followed by a user if you go to his profile (by clicking on his name).
+
+
+
+In order to find friends, you can search people in the search bar by their usernames.
 
 ## Client Repo
 
