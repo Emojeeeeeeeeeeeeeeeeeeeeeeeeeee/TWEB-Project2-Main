@@ -88,4 +88,7 @@ https://github.com/Emojeeeeeeeeeeeeeeeeeeeeeeeeeee/TWEB-Project2-Server
 
 
 
-- props verification
+## Known issues
+
+- For now, Happy😙😺👻 is optimized for `Google Chrome`. Some emojis may not display if you are using another browser.  
+- If your screen height is too big, the infinite scroll bar may not work. It means that you probably won't be able to load more messages or users.
