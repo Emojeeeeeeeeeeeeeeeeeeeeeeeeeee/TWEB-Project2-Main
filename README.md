@@ -74,7 +74,7 @@ In order to find friends, you can search people in the search bar with their use
 
 ## Tests
 
-Some tests have be written to make sure that the graphQL query are working. They can be executed by launching the client with `npm run test`
+Some tests have been written to make sure that the graphQL query are working. They can be executed by launching the client with `npm run test`
 
 ## Client Repo
 
