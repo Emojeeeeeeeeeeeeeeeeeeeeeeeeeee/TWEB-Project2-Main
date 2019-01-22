@@ -42,15 +42,19 @@ https://github.com/notwaldorf/emoji-translate (not sure)
 
 We used Heroku to deploy the app. The two following addresses can be accessed : 
 
-front-end : 
+front-end : https://emojee-client.herokuapp.com
 
-back-end : 
+back-end : https://emojee-server.herokuapp.com
 
 ## How to use this app ?
 
-Firstly, you have to register an account to be able to connect to the app. Once connected, you are redirected in your Home page, which is the place where you can see all your messages and the messages of the persons you are followings. You can access this page by clicking on 🏠 in the navbar.
+Firstly, you have to register an account to be able to connect to the app. Once connected, you are redirected to your Home page, which is the place where you can see all your messages and the messages of peoples you are followings. You can access this page by clicking on 🏠 in the navbar.
 
-You can write a new message by clicking the 💬 button and filling the form. You can delete one of you message at any moment by clicking on the red cross on the message card to delete. If you click on 'My ✉️ ', you will have access to your personal message only. You can also access to all the message that you have liked by clicking on 'My ❤️'. You can access to your profile by clicking on your profile picture in the navbar. In the end, you can log out by clicking on the logout button.
+You can write a new message by clicking the 💬 button and filling the form. You can delete one of you message at any moment by clicking on the red cross on the message card . 
+
+If you click on 'My ✉️ ', you will have access to your personal message only. You can also access to all the message that you have liked by clicking on 'My ❤️'. 
+
+You can access to your profile by clicking on your profile picture in the navbar. In the end, you can log out by clicking on the logout button.
 
 
 
@@ -60,11 +64,17 @@ You can like messages by clicking on the like button and unlike them by clicking
 
 You can also follow/unfollow persons,
 
-You can see the followers and the people followed by a user if you go to his profile (by clicking on his name).
+You can see the followers and the peoples followed by a user if you go to his profile (by clicking on his name).
 
 
 
-In order to find friends, you can search people in the search bar by their usernames.
+In order to find friends, you can search people in the search bar with their usernames.
+
+
+
+## Tests
+
+Some tests have be written to make sure that the graphQL query are working. They can be executed by launching the client with `npm run test`
 
 ## Client Repo
 
