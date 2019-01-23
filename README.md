@@ -42,9 +42,9 @@ https://github.com/notwaldorf/emoji-translate (not sure)
 
 We used Heroku to deploy the app. The two following addresses can be accessed : 
 
-front-end : https://emojee-client.herokuapp.com
+front-end : https://happyfaces-client.herokuapp.com
 
-back-end : https://emojee-server.herokuapp.com
+back-end : https://happyfaces-server.herokuapp.com
 
 ## How to use this app ?
 
